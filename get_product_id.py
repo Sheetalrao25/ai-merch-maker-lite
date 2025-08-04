@@ -2,7 +2,7 @@
 import requests
 
 store_url = "ai-merch-project.myshopify.com"
-access_token = "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"
+access_token = ""
 
 url = f"https://{store_url}/admin/api/2023-07/products.json"
 headers = {
