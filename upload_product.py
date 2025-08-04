@@ -3,7 +3,7 @@ import json
 import os
 
 SHOPIFY_STORE = "ai-merch-project.myshopify.com"
-ACCESS_TOKEN = "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"  # ← your private token
+ACCESS_TOKEN = " "  # ← your private token
 
 def upload_to_shopify(title, description, price, image_url, sku="AI-SHIRT-001"):
     url = f"https://{SHOPIFY_STORE}/admin/api/2023-07/products.json"
