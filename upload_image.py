@@ -5,9 +5,9 @@ import requests
 import base64
 
 # Your Shopify store credentials
-API_KEY = "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"
+API_KEY = ""
 STORE_NAME = "ai-merch-project"
-PRODUCT_ID = "9001025241303"  # Replace this with your actual product ID
+PRODUCT_ID = "1025241303"  # Replace this with your actual product ID
 
 # Path to your image file
 image_path = "mockup_converted.jpg"
